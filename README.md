@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manny</h1>
-<h3 align="center">Aviation and Software Enthusiast</h3>
+<h3 align="center">Computer Science Student and Aviation Enthusiast</h3>
 
 - 🔭 I’m currently working on [FsCOMpanion](https://github.com/FreezeManny/FsCOMpanion)
 
