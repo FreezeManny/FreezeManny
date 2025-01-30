@@ -75,7 +75,7 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
       alt="React"
       width="40"
       height="40"
