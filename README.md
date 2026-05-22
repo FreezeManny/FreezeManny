@@ -7,6 +7,6 @@
 
 ---
 
-🚧 **I'm currently working on [@FreezeManny/labops](https://github.com/FreezeManny/labops).**
+🚧 **I'm currently working on [@FreezeManny/labops](https://github.com/FreezeManny/labops)**, a homelab manager based on the ansible-core.
 
 ⌨️ **My keyboard setup consists of my main Keyboard [Freezetor](https://github.com/FreezeManny/freezetor) and a Macropad [Freezepad](https://github.com/FreezeManny/freezepad).**
