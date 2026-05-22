@@ -9,4 +9,4 @@
 
 🚧 **I'm currently working on [@FreezeManny/labops](https://github.com/FreezeManny/labops).**
 
-⌨️ **My keyboard setup consists of [a Freezetor](https://github.com/FreezeManny/freezetor) and a [Freezepad](https://github.com/FreezeManny/freezepad).**
+⌨️ **My keyboard setup consists of my main Keyboard [Freezetor](https://github.com/FreezeManny/freezetor) and a Macropad [Freezepad](https://github.com/FreezeManny/freezepad).**
