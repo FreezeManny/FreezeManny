@@ -9,4 +9,8 @@
 
 🚧 **I'm currently working on [@FreezeManny/labops](https://github.com/FreezeManny/labops)**, a homelab manager based on the ansible-core.
 
+And agentically coding [@FreezeManny/PaceStrip](https://github.com/FreezeManny/PaceStrip), a splitscreen bike app for Bluetooth cadence and HR.
+
+---
+
 ⌨️ **My keyboard setup consists of my main Keyboard [Freezetor](https://github.com/FreezeManny/freezetor) and a Macropad [Freezepad](https://github.com/FreezeManny/freezepad).**
