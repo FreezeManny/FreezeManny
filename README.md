@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manny</h1>
-<h3 align="center">Computer Scientist and Aviation Enthusiast</h3>
+<h3 align="center">Software Engineer and Aviation Enthusiast</h3>
 
-- 🌱 I’m a: **computer scientist**
+- 🌱 I’m a: **software engineer**
 - 📫 How to reach me: **freezemanny@gmail.com**
 - ⚡ Fun fact: **I fly Aircraft**
 
